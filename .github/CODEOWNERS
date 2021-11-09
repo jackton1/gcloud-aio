@@ -2,3 +2,5 @@
 
 pyproject.toml      @TheKevJames
 poetry.lock         @TheKevJames
+
+/pubsub             @TheKevJames @shaundialpad
